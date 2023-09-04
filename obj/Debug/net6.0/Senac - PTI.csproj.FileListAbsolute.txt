@@ -1,0 +1,15 @@
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\obj\Debug\net6.0\Senac - PTI.csproj.AssemblyReference.cache
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\obj\Debug\net6.0\Senac - PTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\obj\Debug\net6.0\Senac - PTI.AssemblyInfoInputs.cache
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\obj\Debug\net6.0\Senac - PTI.AssemblyInfo.cs
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\obj\Debug\net6.0\Senac - PTI.csproj.CoreCompileInputs.cache
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\bin\Debug\net6.0\Senac - PTI.exe
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\bin\Debug\net6.0\Senac - PTI.deps.json
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\bin\Debug\net6.0\Senac - PTI.runtimeconfig.json
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\bin\Debug\net6.0\Senac - PTI.dll
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\bin\Debug\net6.0\Senac - PTI.pdb
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\obj\Debug\net6.0\Senac - PTI.dll
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\obj\Debug\net6.0\refint\Senac - PTI.dll
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\obj\Debug\net6.0\Senac - PTI.pdb
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\obj\Debug\net6.0\Senac - PTI.genruntimeconfig.cache
+C:\Users\marlu\OneDrive\Documentos\SENAC\Senac - PTI\obj\Debug\net6.0\ref\Senac - PTI.dll

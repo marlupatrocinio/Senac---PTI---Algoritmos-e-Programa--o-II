@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marlu\\OneDrive\\Documentos\\SENAC\\Senac - PTI\\Senac - PTI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marlu\\OneDrive\\Documentos\\SENAC\\Senac - PTI\\Senac - PTI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marlu\\OneDrive\\Documentos\\SENAC\\Senac - PTI\\Senac - PTI.csproj",
+        "projectName": "Senac - PTI",
+        "projectPath": "C:\\Users\\marlu\\OneDrive\\Documentos\\SENAC\\Senac - PTI\\Senac - PTI.csproj",
+        "packagesPath": "C:\\Users\\marlu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marlu\\OneDrive\\Documentos\\SENAC\\Senac - PTI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\marlu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
